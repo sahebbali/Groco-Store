@@ -1,0 +1,5 @@
+1. Its Multipage home,blog,contact,review and shop.
+2. contract page have location maps.
+3. home page have slider.
+4 Its has login,add to cart & Search bouton
+
